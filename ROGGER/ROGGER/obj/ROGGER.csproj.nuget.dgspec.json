@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Redes-04\\source\\repos\\ROGGER\\ROGGER\\ROGGER.csproj": {}
+    "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\ROGGER.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Redes-04\\source\\repos\\ROGGER\\ROGGER\\ROGGER.csproj": {
+    "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\ROGGER.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Redes-04\\source\\repos\\ROGGER\\ROGGER\\ROGGER.csproj",
+        "projectUniqueName": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\ROGGER.csproj",
         "projectName": "ROGGER",
-        "projectPath": "C:\\Users\\Redes-04\\source\\repos\\ROGGER\\ROGGER\\ROGGER.csproj",
+        "projectPath": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\ROGGER.csproj",
         "packagesPath": "C:\\Users\\Redes-04\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Redes-04\\source\\repos\\ROGGER\\ROGGER\\obj\\",
+        "outputPath": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,12 +1,436 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Redes-04\\source\\repos\\ROGGER\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|c:\\users\\redes-04\\documents\\github\\frogger\\rogger\\rogger\\entidades\\direccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|solutionrelative:rogger\\entidades\\direccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|c:\\users\\redes-04\\documents\\github\\frogger\\rogger\\rogger\\sprites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|solutionrelative:rogger\\sprites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|c:\\users\\redes-04\\documents\\github\\frogger\\rogger\\rogger\\basedatos\\gestorbasedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|solutionrelative:rogger\\basedatos\\gestorbasedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|c:\\users\\redes-04\\documents\\github\\frogger\\rogger\\rogger\\basedatos\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|solutionrelative:rogger\\basedatos\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|c:\\users\\redes-04\\documents\\github\\frogger\\rogger\\rogger\\mundo\\causamuerte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|solutionrelative:rogger\\mundo\\causamuerte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|c:\\users\\redes-04\\documents\\github\\frogger\\rogger\\rogger\\mundo\\gestorcolisiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|solutionrelative:rogger\\mundo\\gestorcolisiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|c:\\users\\redes-04\\documents\\github\\frogger\\rogger\\rogger\\datos\\nodoarbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|solutionrelative:rogger\\datos\\nodoarbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|c:\\users\\redes-04\\documents\\github\\frogger\\rogger\\rogger\\mundo\\mapanivel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|solutionrelative:rogger\\mundo\\mapanivel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|c:\\users\\redes-04\\documents\\github\\frogger\\rogger\\rogger\\mundo\\tipocarril.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|solutionrelative:rogger\\mundo\\tipocarril.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|c:\\users\\redes-04\\documents\\github\\frogger\\rogger\\rogger\\mundo\\colaaparicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|solutionrelative:rogger\\mundo\\colaaparicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|c:\\users\\redes-04\\documents\\github\\frogger\\rogger\\rogger\\mundo\\gestorrecursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|solutionrelative:rogger\\mundo\\gestorrecursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|c:\\users\\redes-04\\documents\\github\\frogger\\rogger\\rogger\\entidades\\tronco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|solutionrelative:rogger\\entidades\\tronco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|c:\\users\\redes-04\\documents\\github\\frogger\\rogger\\rogger\\rogger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|solutionrelative:rogger\\rogger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|c:\\users\\redes-04\\documents\\github\\frogger\\rogger\\rogger\\entidades\\tipoobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|solutionrelative:rogger\\entidades\\tipoobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|c:\\users\\redes-04\\documents\\github\\frogger\\rogger\\rogger\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|solutionrelative:rogger\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|c:\\users\\redes-04\\documents\\github\\frogger\\rogger\\rogger\\datos\\gestorarchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|solutionrelative:rogger\\datos\\gestorarchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|c:\\users\\redes-04\\documents\\github\\frogger\\rogger\\rogger\\datos\\busqueda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|solutionrelative:rogger\\datos\\busqueda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|c:\\users\\redes-04\\documents\\github\\frogger\\rogger\\rogger\\datos\\ordenamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|solutionrelative:rogger\\datos\\ordenamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|c:\\users\\redes-04\\documents\\github\\frogger\\rogger\\rogger\\datos\\arbolusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|solutionrelative:rogger\\datos\\arbolusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|c:\\users\\redes-04\\documents\\github\\frogger\\rogger\\rogger\\datos\\perfilusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|solutionrelative:rogger\\datos\\perfilusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|c:\\users\\redes-04\\documents\\github\\frogger\\rogger\\rogger\\entidades\\cocodrilo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|solutionrelative:rogger\\entidades\\cocodrilo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|c:\\users\\redes-04\\documents\\github\\frogger\\rogger\\rogger\\entidades\\tortuga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|solutionrelative:rogger\\entidades\\tortuga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|c:\\users\\redes-04\\documents\\github\\frogger\\rogger\\rogger\\entidades\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|solutionrelative:rogger\\entidades\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|c:\\users\\redes-04\\documents\\github\\frogger\\rogger\\rogger\\entidades\\objetomovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|solutionrelative:rogger\\entidades\\objetomovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|c:\\users\\redes-04\\documents\\github\\frogger\\rogger\\rogger\\entidades\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E7B329-1696-40F6-A1BD-ECB36BD9595A}|ROGGER\\ROGGER.csproj|solutionrelative:rogger\\entidades\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sprites.cs",
+              "DocumentMoniker": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Sprites.cs",
+              "RelativeDocumentMoniker": "ROGGER\\Sprites.cs",
+              "ToolTip": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Sprites.cs",
+              "RelativeToolTip": "ROGGER\\Sprites.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T20:19:22.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GestorBaseDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\BaseDatos\\GestorBaseDatos.cs",
+              "RelativeDocumentMoniker": "ROGGER\\BaseDatos\\GestorBaseDatos.cs",
+              "ToolTip": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\BaseDatos\\GestorBaseDatos.cs",
+              "RelativeToolTip": "ROGGER\\BaseDatos\\GestorBaseDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T20:19:06.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConexionBD.cs",
+              "DocumentMoniker": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\BaseDatos\\ConexionBD.cs",
+              "RelativeDocumentMoniker": "ROGGER\\BaseDatos\\ConexionBD.cs",
+              "ToolTip": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\BaseDatos\\ConexionBD.cs",
+              "RelativeToolTip": "ROGGER\\BaseDatos\\ConexionBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T20:18:43.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NodoArbol.cs",
+              "DocumentMoniker": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Datos\\NodoArbol.cs",
+              "RelativeDocumentMoniker": "ROGGER\\Datos\\NodoArbol.cs",
+              "ToolTip": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Datos\\NodoArbol.cs",
+              "RelativeToolTip": "ROGGER\\Datos\\NodoArbol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T20:15:30.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GestorColisiones.cs",
+              "DocumentMoniker": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Mundo\\GestorColisiones.cs",
+              "RelativeDocumentMoniker": "ROGGER\\Mundo\\GestorColisiones.cs",
+              "ToolTip": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Mundo\\GestorColisiones.cs",
+              "RelativeToolTip": "ROGGER\\Mundo\\GestorColisiones.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T20:14:46.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CausaMuerte.cs",
+              "DocumentMoniker": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Mundo\\CausaMuerte.cs",
+              "RelativeDocumentMoniker": "ROGGER\\Mundo\\CausaMuerte.cs",
+              "ToolTip": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Mundo\\CausaMuerte.cs",
+              "RelativeToolTip": "ROGGER\\Mundo\\CausaMuerte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T20:14:16.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Direccion.cs",
+              "DocumentMoniker": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Entidades\\Direccion.cs",
+              "RelativeDocumentMoniker": "ROGGER\\Entidades\\Direccion.cs",
+              "ToolTip": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Entidades\\Direccion.cs",
+              "RelativeToolTip": "ROGGER\\Entidades\\Direccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T19:54:42.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MapaNivel.cs",
+              "DocumentMoniker": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Mundo\\MapaNivel.cs",
+              "RelativeDocumentMoniker": "ROGGER\\Mundo\\MapaNivel.cs",
+              "ToolTip": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Mundo\\MapaNivel.cs",
+              "RelativeToolTip": "ROGGER\\Mundo\\MapaNivel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T20:13:58.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TipoCarril.cs",
+              "DocumentMoniker": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Mundo\\TipoCarril.cs",
+              "RelativeDocumentMoniker": "ROGGER\\Mundo\\TipoCarril.cs",
+              "ToolTip": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Mundo\\TipoCarril.cs",
+              "RelativeToolTip": "ROGGER\\Mundo\\TipoCarril.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T20:13:40.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ColaAparicion.cs",
+              "DocumentMoniker": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Mundo\\ColaAparicion.cs",
+              "RelativeDocumentMoniker": "ROGGER\\Mundo\\ColaAparicion.cs",
+              "ToolTip": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Mundo\\ColaAparicion.cs",
+              "RelativeToolTip": "ROGGER\\Mundo\\ColaAparicion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T20:13:20.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GestorRecursos.cs",
+              "DocumentMoniker": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Mundo\\GestorRecursos.cs",
+              "RelativeDocumentMoniker": "ROGGER\\Mundo\\GestorRecursos.cs",
+              "ToolTip": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Mundo\\GestorRecursos.cs",
+              "RelativeToolTip": "ROGGER\\Mundo\\GestorRecursos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T20:12:55.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TipoObjeto.cs",
+              "DocumentMoniker": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Entidades\\TipoObjeto.cs",
+              "RelativeDocumentMoniker": "ROGGER\\Entidades\\TipoObjeto.cs",
+              "ToolTip": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Entidades\\TipoObjeto.cs",
+              "RelativeToolTip": "ROGGER\\Entidades\\TipoObjeto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T19:54:57.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Ordenamiento.cs",
+              "DocumentMoniker": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Datos\\Ordenamiento.cs",
+              "RelativeDocumentMoniker": "ROGGER\\Datos\\Ordenamiento.cs",
+              "ToolTip": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Datos\\Ordenamiento.cs",
+              "RelativeToolTip": "ROGGER\\Datos\\Ordenamiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T19:26:39.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ArbolUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Datos\\ArbolUsuario.cs",
+              "RelativeDocumentMoniker": "ROGGER\\Datos\\ArbolUsuario.cs",
+              "ToolTip": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Datos\\ArbolUsuario.cs",
+              "RelativeToolTip": "ROGGER\\Datos\\ArbolUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T19:26:18.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PerfilUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Datos\\PerfilUsuario.cs",
+              "RelativeDocumentMoniker": "ROGGER\\Datos\\PerfilUsuario.cs",
+              "ToolTip": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Datos\\PerfilUsuario.cs",
+              "RelativeToolTip": "ROGGER\\Datos\\PerfilUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T19:25:51.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ROGGER.csproj",
+              "DocumentMoniker": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\ROGGER.csproj",
+              "RelativeDocumentMoniker": "ROGGER\\ROGGER.csproj",
+              "ToolTip": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\ROGGER.csproj",
+              "RelativeToolTip": "ROGGER\\ROGGER.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-25T19:19:33.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Tronco.cs",
+              "DocumentMoniker": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Entidades\\Tronco.cs",
+              "RelativeDocumentMoniker": "ROGGER\\Entidades\\Tronco.cs",
+              "ToolTip": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Entidades\\Tronco.cs",
+              "RelativeToolTip": "ROGGER\\Entidades\\Tronco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T19:24:01.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Busqueda.cs",
+              "DocumentMoniker": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Datos\\Busqueda.cs",
+              "RelativeDocumentMoniker": "ROGGER\\Datos\\Busqueda.cs",
+              "ToolTip": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Datos\\Busqueda.cs",
+              "RelativeToolTip": "ROGGER\\Datos\\Busqueda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T19:27:05.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GestorArchivos.cs",
+              "DocumentMoniker": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Datos\\GestorArchivos.cs",
+              "RelativeDocumentMoniker": "ROGGER\\Datos\\GestorArchivos.cs",
+              "ToolTip": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Datos\\GestorArchivos.cs",
+              "RelativeToolTip": "ROGGER\\Datos\\GestorArchivos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T19:27:29.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Cocodrilo.cs",
+              "DocumentMoniker": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Entidades\\Cocodrilo.cs",
+              "RelativeDocumentMoniker": "ROGGER\\Entidades\\Cocodrilo.cs",
+              "ToolTip": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Entidades\\Cocodrilo.cs",
+              "RelativeToolTip": "ROGGER\\Entidades\\Cocodrilo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T19:24:29.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Game1.cs",
+              "RelativeDocumentMoniker": "ROGGER\\Game1.cs",
+              "ToolTip": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Game1.cs",
+              "RelativeToolTip": "ROGGER\\Game1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T19:07:29.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Tortuga.cs",
+              "DocumentMoniker": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Entidades\\Tortuga.cs",
+              "RelativeDocumentMoniker": "ROGGER\\Entidades\\Tortuga.cs",
+              "ToolTip": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Entidades\\Tortuga.cs",
+              "RelativeToolTip": "ROGGER\\Entidades\\Tortuga.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T19:24:14.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Entidades\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "ROGGER\\Entidades\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Entidades\\Vehiculo.cs",
+              "RelativeToolTip": "ROGGER\\Entidades\\Vehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T19:23:45.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ObjetoMovil.cs",
+              "DocumentMoniker": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Entidades\\ObjetoMovil.cs",
+              "RelativeDocumentMoniker": "ROGGER\\Entidades\\ObjetoMovil.cs",
+              "ToolTip": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Entidades\\ObjetoMovil.cs",
+              "RelativeToolTip": "ROGGER\\Entidades\\ObjetoMovil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T19:23:23.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Jugador.cs",
+              "DocumentMoniker": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Entidades\\Jugador.cs",
+              "RelativeDocumentMoniker": "ROGGER\\Entidades\\Jugador.cs",
+              "ToolTip": "C:\\Users\\Redes-04\\Documents\\GitHub\\FROGGER\\ROGGER\\ROGGER\\Entidades\\Jugador.cs",
+              "RelativeToolTip": "ROGGER\\Entidades\\Jugador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T19:22:08.497Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

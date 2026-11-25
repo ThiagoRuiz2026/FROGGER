@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ROGGER.Entidades
 {
-    internal class ObjetosMovil
+    internal class Direccion
     {
     }
 }

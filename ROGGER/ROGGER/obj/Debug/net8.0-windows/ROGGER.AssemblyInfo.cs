@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ROGGER")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f1cc820da50a365812754b0ce389fd29f57a2c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ROGGER")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ROGGER")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
