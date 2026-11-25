@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Redes-04/source/repos/ROGGER/ROGGER/Content/Agua1.png</File>
+    <File>C:/Users/Redes-04/source/repos/ROGGER/ROGGER/Content/Agua2.png</File>
+    <File>C:/Users/Redes-04/source/repos/ROGGER/ROGGER/Content/arbusto.png</File>
+    <File>C:/Users/Redes-04/source/repos/ROGGER/ROGGER/Content/Auto_amarillo.png</File>
+    <File>C:/Users/Redes-04/source/repos/ROGGER/ROGGER/Content/Auto_azul.png</File>
+    <File>C:/Users/Redes-04/source/repos/ROGGER/ROGGER/Content/Auto_rojo.png</File>
+    <File>C:/Users/Redes-04/source/repos/ROGGER/ROGGER/Content/Calle.png</File>
+    <File>C:/Users/Redes-04/source/repos/ROGGER/ROGGER/Content/Camion.png</File>
+    <File>C:/Users/Redes-04/source/repos/ROGGER/ROGGER/Content/Cocodrilo.png</File>
+    <File>C:/Users/Redes-04/source/repos/ROGGER/ROGGER/Content/Colectivo.png</File>
+    <File>C:/Users/Redes-04/source/repos/ROGGER/ROGGER/Content/flores_amarilla.png</File>
+    <File>C:/Users/Redes-04/source/repos/ROGGER/ROGGER/Content/flores_blancas.png</File>
+    <File>C:/Users/Redes-04/source/repos/ROGGER/ROGGER/Content/flores_roja.png</File>
+    <File>C:/Users/Redes-04/source/repos/ROGGER/ROGGER/Content/Ladrillo.png</File>
+    <File>C:/Users/Redes-04/source/repos/ROGGER/ROGGER/Content/Linea1.png</File>
+    <File>C:/Users/Redes-04/source/repos/ROGGER/ROGGER/Content/Linea2.png</File>
+    <File>C:/Users/Redes-04/source/repos/ROGGER/ROGGER/Content/Nenufar.png</File>
+    <File>C:/Users/Redes-04/source/repos/ROGGER/ROGGER/Content/Nenufar2.png</File>
+    <File>C:/Users/Redes-04/source/repos/ROGGER/ROGGER/Content/Pasto.png</File>
+    <File>C:/Users/Redes-04/source/repos/ROGGER/ROGGER/Content/Roca_grande.png</File>
+    <File>C:/Users/Redes-04/source/repos/ROGGER/ROGGER/Content/Roca_pequeña.png</File>
+    <File>C:/Users/Redes-04/source/repos/ROGGER/ROGGER/Content/Sapo1.png</File>
+    <File>C:/Users/Redes-04/source/repos/ROGGER/ROGGER/Content/Sapo2.png</File>
+    <File>C:/Users/Redes-04/source/repos/ROGGER/ROGGER/Content/Sapo3.png</File>
+    <File>C:/Users/Redes-04/source/repos/ROGGER/ROGGER/Content/Sapo4.png</File>
+    <File>C:/Users/Redes-04/source/repos/ROGGER/ROGGER/Content/Tortuga.png</File>
+    <File>C:/Users/Redes-04/source/repos/ROGGER/ROGGER/Content/Tortuga2.png</File>
+    <File>C:/Users/Redes-04/source/repos/ROGGER/ROGGER/Content/Tortuga3.png</File>
+    <File>C:/Users/Redes-04/source/repos/ROGGER/ROGGER/Content/Tronco_corto.png</File>
+    <File>C:/Users/Redes-04/source/repos/ROGGER/ROGGER/Content/Tronco_largo.png</File>
+    <File>C:/Users/Redes-04/source/repos/ROGGER/ROGGER/Content/Tronco_Mediano.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
